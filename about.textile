@@ -6,6 +6,9 @@ title: Claudio Perez Gamayo - About me
 <div class="post">
 	<h2><a href="{{ page.url }}">About me</a></h2>
 	<div class="entrybody">
+
+!/images/akira_and_daddy.jpg!
+
 My name is Claudio. I’ve been working with computers for 25 years, doing with them almost anything that can be done with a computer. I like robots and shakuhachi.
 
 I’m currently doing a lot of web development, and I’m happily working with Ruby and Ruby on Rails.
