@@ -1,0 +1,24 @@
+---
+layout: work_es
+title: EchoWaves - chat en grupo y red social
+---
+
+!/images/portfolio/echowaves-thumb.jpg!:http://echowaves.com
+
+"EchoWaves":http://www.echowaves.com es un proyecto de chat en grupo y red social comenzado por "Dmitry Amelchenko":http://www.echowaves.com/conversations/5
+
+"EchoWaves":http://www.echowaves.com es una herramienta de colaboracion y una red social. "EchoWaves":http://www.echowaves.com tiene las mismas posibilidades que Campfire, y es tan simple de usar como Twitter. Todo gira alrededor de las conversaciones (convos) en vez de los usuarios. ¿Acaso no es mas natural para los humanos el socializar alrededor de las conversaciones?
+
+Basicamente esta herramienta puede ser una importante adicion a cualquier equipo que utilice metodologias de desarrollo agiles, especialmente a equipos cuyos miembros se encuentren distribuidos geograficamente. Todos conocemos la importancia de la comunicacion la cual puede ser dificil si las personas no se encuentran en la misma habitacion, o si alguien se ausenta durante unos minutos...
+
+Puedes charlar conmigo en <span class="tag">"mi conversacion personal":http://www.echowaves.com/conversations/52</span> en "EchoWaves":http:echowaves.com
+
+Si eres un desarrollador y quieres colaborar, puedes hechar un vistazo a la lista de tareas pendientes en "google code":http://code.google.com/p/echowaves/issues/list
+
+El codigo fuente se encuentra alojado en "github":http://github.com, el repositorio principal es:
+
+"http://github.com/dmitryame/echowaves":http://github.com/dmitryame/echowaves
+
+mi repositorio de trabajo es:
+
+"http://github.com/crossblaim/echowaves":http://github.com/crossblaim/echowaves
