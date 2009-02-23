@@ -11,4 +11,4 @@ The code is hosted on "github":http://github.com/crossblaim/backpack-theme-for-d
 
 Here is an early screenshot of the theme:
 
-!{width:440px;}/images/portfolio/backpack-theme-dokuwiki.png!
+!/images/portfolio/backpack-theme-dokuwiki-thumb.jpg!:/images/portfolio/backpack-theme-dokuwiki.png
