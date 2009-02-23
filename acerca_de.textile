@@ -1,0 +1,22 @@
+---
+layout: default_es
+title: Claudio Perez Gamayo - Acerca de mi
+---
+
+<div class="post">
+	<h2><a href="{{ page.url }}">Acerca de mi</a></h2>
+	<div class="entrybody">
+
+!/images/akira_and_daddy.jpg!
+
+Mi nombre es Claudio. He estado trabajando con computadoras durante mas de 25 años, haciendo con ellas casi cualquier cosa que se pueda hacer con una computadora. Me gustan los robots y el shakuhachi.
+
+Actualmente estoy trabajando como consultor independiente y desarrollador web freelance, desarrollando mi trabajo felizmente con Ruby y Ruby on Rails.
+
+Soy co-fundador y desarrollador principal de "sidirect":http://sidirect.net, una plataforma internacional para profesionalizar el mercado inmobiliario. Actualmente estamos en fase de pruebas privada.
+
+Cuando tengo algo de tiempo libre, me gusta desarrollar nuevas caracteristicas para "echowaves":http://echowaves.com, nuestro fantastico “chat en grupo y red social”.
+
+Estoy casado con "esta preciosa mujer":http://raquelquinto.com y tenemos un hijo llamado "AKIRA":http://www.echowaves.com/conversations/221.
+	</div>
+</div>
