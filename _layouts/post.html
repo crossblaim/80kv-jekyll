@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="post">
+	<h2><span class="date">{{ page.date | date_to_string }}</span> <a href="{{ page.url }}">{{ page.title }}</a></h2>
+	<div class="entrybody">
+		{{ content }}
+	</div>
+	<!-- <div class="entrymeta"><div class="postinfo"><span class="taglist">Tagged with <a href="/tags/personal" rel="tag" title="personal">personal</a></span></div></div> -->
+</div>

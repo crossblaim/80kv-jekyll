@@ -1,0 +1,14 @@
+---
+layout: post
+title: backpack theme for dokuwiki
+---
+
+"dokuwiki":http://wiki.splitbrain.org/wiki:dokuwiki is a standards-compliant and simple-to-use wiki. This is a modification of the default design to make it looks like the beautiful and clean interface of "37signals’s":http://www.37signals.com/ "backpack":http://www.backpackit.com/.
+
+This is a work in progress, but the theme is very nice right now. To install it, simply "download the archive":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tarball/master and uncompress it in your dokuwiki themes folder, then choose the new installed theme in the admin section of dokuwiki.
+
+The code is hosted on "github":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master feel free to collaborate if you want.
+
+Here is an early screenshot of the theme:
+
+!{width:440px;}/images/portfolio/backpack-theme-dokuwiki.png!

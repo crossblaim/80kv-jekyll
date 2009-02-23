@@ -1,0 +1,18 @@
+---
+layout: default
+title: Claudio Perez Gamayo
+---
+
+{% for post in site.posts %}
+  <div class="post">
+  	<h2><span class="date">{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></h2>
+  	<div class="entrybody">
+  		
+  	</div>
+  	<!-- <div class="entrymeta"><div class="postinfo"><span class="taglist">Tagged with <a href="/tags/personal" rel="tag" title="personal">personal</a></span></div></div> -->
+  </div>
+{% endfor %}
+
+<div id="pagination_links">
+  
+</div>
