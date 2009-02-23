@@ -14,7 +14,7 @@ layout: nil
    <email>claudio@80kv.com</email>
  </author>
  
- {% for post in site.posts %}
+ {% for post in site.categories.blog %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://80kv.com{{ post.url }}"/>
