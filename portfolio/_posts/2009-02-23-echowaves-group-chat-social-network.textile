@@ -1,0 +1,24 @@
+---
+layout: work
+title: EchoWaves - Group chat and social network
+---
+
+!/images/portfolio/echowaves-thumb.jpg!:http://echowaves.com
+
+"EchoWaves":http://www.echowaves.com is an opensource group chat social network project started by "Dmitry Amelchenko":http://www.echowaves.com/conversations/5
+
+"EchoWaves":http://www.echowaves.com is a Collaboration Tool and a Social Network. "EchoWaves":http://www.echowaves.com is as powerful as CampFire, and as simple to use as Twitter. It's built around conversations (convos) rather than users. Isn't it more natural for humans to socialize around convos?
+
+Basically this tool could be an important addition to an agile team, specially to a geographically distributed one. We all know the importance of communication which could be difficult if people are not in the same room, or when someone walks out for few minutes...
+
+You can talk with me in <span class="tag">"my personal convo":http://www.echowaves.com/conversations/52</span> in "EchoWaves":http:echowaves.com
+
+If you're a developer and want to collaborate with us, feel free to look at the current tasks list in "google code":http://code.google.com/p/echowaves/issues/list
+
+The source code is hosted at "github":http://github.com, the authoritative repository is:
+
+"http://github.com/dmitryame/echowaves":http://github.com/dmitryame/echowaves
+
+my working repository is:
+
+"http://github.com/crossblaim/echowaves":http://github.com/crossblaim/echowaves
