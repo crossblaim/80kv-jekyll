@@ -1,0 +1,8 @@
+---
+layout: work
+title: Raquel's blog design and mephisto integration
+---
+
+!/images/portfolio/raquel-blog-thumb.jpg!:http://raquelquinto.com
+
+This design is a variation of mine in "80KV":http://80kv.com, the design is integrated into the fantastic blog engine "mephisto":http://Mephistoblog.com/ and is built on XHTML and CSS

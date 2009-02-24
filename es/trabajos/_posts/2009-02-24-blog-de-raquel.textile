@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Diseño del blog de Raquel e integracion con mephisto
+---
+
+!/images/portfolio/raquel-blog-thumb.jpg!:http://raquelquinto.com
+
+Esta diseño es una variacion del mio en "80KV":http://80kv.com, el diseño esta integrado en el fantastico motor de blogs "mephisto":http://mephistoblog.com/ utilizando XHTML y CSS
