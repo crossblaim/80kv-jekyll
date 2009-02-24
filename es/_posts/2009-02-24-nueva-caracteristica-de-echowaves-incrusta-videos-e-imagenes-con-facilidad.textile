@@ -1,0 +1,19 @@
+---
+layout: post_es
+title: Nueva caracteristica de echowaves, incrusta videos e imagenes con facilidad en tus mensajes
+---
+
+Desde ayer tenemos una nueva funcionalidad en "EchoWaves":http://echowaves.com, gracias a la cual podreis poner videos e imagenes dentro de vuestros mensajes de una manera muy sencilla, tan solo copiando la direccion de la pagina del video.
+Por ejemplo, si copiamos en un mensaje en "EchoWaves":http://echowaves.com la siguiente direccion de un video de "Vimeo":http://vimeo.com
+
+!/images/screenshoots/examples/vimeo-posting-example.jpg!
+
+el video se visualizara directamente en el mensaje, asi:
+
+!/images/screenshoots/echowaves/echowaves-feature-video.jpg!
+
+el sistema es valido para videos de "youtube":http://youtube.com y "Vimeo":http://vimeo.com de momento, y tambien funciona con imagenes, si copiais la url (direccion) de una imagen en el mensaje, la imagen se vera automaticamente.
+
+Para ver el resultado podeis "visitar mi video blog":http://www.echowaves.com/conversations/246 en "EchoWaves":http://echowaves.com
+
+Disfrutad :-D
