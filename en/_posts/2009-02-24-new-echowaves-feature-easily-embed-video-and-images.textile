@@ -1,0 +1,19 @@
+---
+layout: post
+title: New feature of echowaves, embed videos and pictures into your messages with ease
+---
+
+Since yesterday we have a new feature in "EchoWaves":http://echowaves.com, you can embed videos and pictures into your messages easily, just by copying the url address of a video or image.
+For example, if you paste in a message in "EchoWaves":http://echowaves.com the url of a video of "Vimeo":http://vimeo.com like this:
+
+!/images/screenshoots/examples/vimeo-posting-example.jpg!
+
+the video is displayed directly in the message, like this:
+
+!/images/screenshoots/echowaves/echowaves-feature-video.jpg!
+
+the system works with "youtube":http://youtube.com and "Vimeo":http://vimeo.com videos for now, but also works with image urls, if you paste the url of an image, the image will be displayed inline.
+
+To see a live example of this you can "visit my video blog":http://www.echowaves.com/conversations/246 in "EchoWaves":http://echowaves.com
+
+Enjoy :-D
