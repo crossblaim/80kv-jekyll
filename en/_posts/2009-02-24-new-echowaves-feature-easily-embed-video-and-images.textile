@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New feature of echowaves, embed videos and pictures into your messages with ease
+title: "New feature of EchoWaves: embed videos and pictures into your messages with ease"
 ---
 
 Since yesterday we have a new feature in "EchoWaves":http://echowaves.com, you can embed videos and pictures into your messages easily, just by copying the url address of a video or image.

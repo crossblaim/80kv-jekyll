@@ -1,0 +1,12 @@
+---
+layout: post
+title: "New feature of EchoWaves: private conversations"
+---
+
+Another day and a new feature of "EchoWaves":http://echowaves.com, this time a highly requested one by users since the beginning: private conversations.
+
+!/images/screenshoots/privateconvos.jpg!
+
+Now, when you create a new conversation, you can choose to make it private, thus the users can not read it. You can invite other users to participate on your private conversation, they will receive an email with the invitation so they can access it.
+
+You can also convert your private conversations to public, and public to private, whenever you want.

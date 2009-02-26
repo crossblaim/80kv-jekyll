@@ -1,0 +1,12 @@
+---
+layout: post_es
+title: "Nueva caracteristica de EchoWaves: Conversaciones privadas"
+---
+
+Otro dia y nueva caracteristica de "EchoWaves":http://echowaves.com, esta vez una muy solicitada por los usuarios desde el principio: conversaciones privadas.
+
+!/images/screenshoots/privateconvos.jpg!
+
+Ahora, al crear una nueva conversacion, podeis elegir que sea privada, de este modo los otros usuarios no podran leerla. Podeis invitar a otros usuarios a seguir vuestra conversacion privada, estos recibiran un email con la invitacion y asi podran acceder a ella. Si alguien deja de seguir una conversacion privada, tendra que ser invitado nuevamente para poder participar.
+
+Tambien podeis convertir en privadas vuestras conversaciones publicas, y hacer publicas las privadas siempre que querais.
