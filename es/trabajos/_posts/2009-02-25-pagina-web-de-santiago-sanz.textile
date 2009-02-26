@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Pagina web de Santiago Sanz
+---
+
+!/images/portfolio/santiagosanz.jpg!:http://santiago-sanz.com
+
+La web esta desarrollada en Rails y consta de un CMS hecho a medida, con un blog con comentarios, noticias, paginas, integracion con fotos de "Picasa":http://picasaweb.google.com y videos de "Vimeo":http://vimeo.com

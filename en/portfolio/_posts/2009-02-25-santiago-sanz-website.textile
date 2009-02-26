@@ -1,0 +1,8 @@
+---
+layout: work
+title: Santiago Sanz website
+---
+
+!/images/portfolio/santiagosanz.jpg!:http://santiago-sanz.com
+
+The site is developed using Ruby on Rails and consists on a custom CMS with blog, comments, news, pages, "Picasa":http://picasaweb.google.com integration and "Vimeo":http://vimeo.com videos.
