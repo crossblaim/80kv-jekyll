@@ -1,0 +1,36 @@
+---
+layout: post_es
+title: EchoWaves como herramienta de colaboracion
+---
+
+Siguiendo con la serie de articulos sobre "EchoWaves":http://echowaves.com, voy a hablaros un poco de algunas de las caracteristicas que hacen del servicio una opcion interesante como herramienta de colaboracion.
+
+h4. *Conversaciones ilimitadas*
+
+!/images/screenshoots/echowaves/convos.jpg!
+
+Podeis crear todas las conversaciones que necesiteis, para cada asunto, proyecto o lo que sea
+
+h4. *Conversaciones privadas*
+
+!/images/screenshoots/echowaves/private.jpg!
+
+Desde hace unos dias, "EchoWaves":http://echowaves.com permite la creacion de conversaciones privadas. De este modo podeis crear una conversacion para un determinado proyecto o cliente, y mantener la conversacion fuera del alcance de las miradas de otros clientes.
+
+h4. *Compartir archivos*
+
+!/images/screenshoots/echowaves/file.jpg!
+
+Podeis compartir archivos con otros miembros del equipo o los clientes de manera muy sencilla, simplemente añadiendolos a un mensaje, haciendo click en el icono os descargareis el archivo. Se pueden subir archivos de todo tipo, documentos pdf, hojas de calculo, etc...
+
+h4. *Mostrar imagenes*
+
+!/images/screenshoots/echowaves/image.jpg!
+
+Podeis añadir imagenes a los mensajes de la misma forma que los archivos y el programa os mostrara la imagen en linea. Haciendo click en la imagen la podreis ver a tamaño real.
+
+Y esto es solo el principio, "EchoWaves":http://echowaves.com es una herramienta muy sencilla y versatil, con un poco de imaginacion seguramente se os ocurran muchas otras maneras de utilizarla.
+
+Para terminar, solo recordaros que "EchoWaves":http://echowaves.com es software libre, y que os podeis descargar el programa que utilizamos en la web y utilizarlo como mas os convenga, por ejemplo para tener una instalacion privada dentro de una empresa para que los empleados puedan comunicarse y colaborar, personalizarlo y adaptarlo a necesidades especificas, etc...
+
+Si sois desarrolladores, tambien podeis colaborar en el desarrollo del proyecto. El codigo fuente del mismo se encuentra en: "http://github.com/dmitryame/echowaves/tree/master":http://github.com/dmitryame/echowaves/tree/master

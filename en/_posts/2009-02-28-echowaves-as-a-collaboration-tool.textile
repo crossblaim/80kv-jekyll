@@ -1,0 +1,36 @@
+---
+layout: post
+title: EchoWaves as a collaboration tool
+---
+
+Following the series of articles on "EchoWaves":http://echowaves.com, I will talk a little about some of the features that make the service an attractive option as a collaboration tool.
+
+h4. *Unlimited conversations*
+
+!/images/screenshoots/echowaves/convos-en.jpg!
+
+You can create all the conversations you need, one for every case, project, customer or whatever
+
+h4. *Private conversations*
+
+!/images/screenshoots/echowaves/private-en.jpg!
+
+Since a few days, "EchoWaves":http://echowaves.com allows the creation of private conversations. This way you can create a conversation for a specific project or client, and keep the conversation away from the eyes of other customers.
+
+h4. *Share files*
+
+!/images/screenshoots/echowaves/file.jpg!
+
+You can share files with other team members or clients in a very simple way, just attach the file to a message. You can download the file by clicking on the file icon. You can upload files of all kinds, PDF documents, spreadsheets, etc...
+
+h4. *Show images*
+
+!/images/screenshoots/echowaves/image.jpg!
+
+You can add images to your messages in the same way as files, and the program will display the image online. If you click on the picture you can see it in real size.
+
+And this is only the beginning, "EchoWaves":http://echowaves.com is a very simple and versatile tool, with a little imagination you will surely occur in many other ways to use it.
+
+In closing, just to remind you that "EchoWaves":http://echowaves.com is free and open source software. You can download it and use it as you need, for example to have a private installation within a company for employees to communicate and collaborate, to customize and adapt to specific needs, etc...
+
+If you're a developer and want to collaborate, you can find the source code of the project on: "http://github.com/dmitryame/echowaves/tree/master":http://github.com/dmitryame/echowaves/tree/master
