@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Euruko 2009 Barcelona: European Ruby Conference open for registration"
+---
+
+"Euruko 2009":http://app.euruko2009.org/ is now "open for registration":http://app.euruko2009.org/. The European Ruby Conference will take place this year on May 9th-10th in Barcelona, Spain. The price? only 30 euros. The "schedule":http://app.euruko2009.org/calendar is also available.
+
+See you in Barcelona :-)

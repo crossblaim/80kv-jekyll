@@ -1,0 +1,8 @@
+---
+layout: post_es
+title: "Euruko 2009 Barcelona: Abierto el registro de asistencia a la Conferencia Europea sobre Ruby"
+---
+
+Ya esta "abierto el registro":http://app.euruko2009.org/ de asistentes a la Conferencia Europea sobre Ruby, "Euruko 2009":http://app.euruko2009.org/ que va a tener lugar este año los dias 9 y 10 de Mayo en Barcelona, el precio es de 30 euros. La agenda tambien "esta disponible":http://app.euruko2009.org/calendar.
+
+Nos vemos en Barcelona :-)
