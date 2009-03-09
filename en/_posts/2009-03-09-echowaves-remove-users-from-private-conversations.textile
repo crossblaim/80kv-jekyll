@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Remove users from private conversations in EchoWaves"
+---
+
+Over the last few days is possible in "EchoWaves":http://echowaves.com to have private conversations, either by starting a new conversation or making a existing conversation private. The owners of a private conversation can invite other users to enable them to participate,  but one important thing was missing, the owner of a private conversation has to be able to remove users from their conversation. Since yesterday it is possible. To remove a user just need to enter the followers tab and remove the user you want by clicking the little red "x":
+
+!/images/screenshoots/echowaves/remove-users.jpg!

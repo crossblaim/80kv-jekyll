@@ -1,0 +1,8 @@
+---
+layout: post_es
+title: "Eliminar usuarios de una conversacion privada en EchoWaves"
+---
+
+Desde hace unos dias es posible en "EchoWaves":http://echowaves.com el tener conversaciones privadas, ya sea al comenzar una nueva conversacion o haciendo privada una conversacion existente. Los propietarios de una conversacion privada pueden invitar a otros usuarios para que estos puedan participar, pero faltaba una cosa importante, el propietario de una conversacion privada tiene que poder eliminar usuarios de su conversacion en el momento que lo necesitara. Desde ayer es posible. Para eliminar a un usuario solo hay que entrar en la pestaña de seguidores y eliminar al usuario que querais haciendo click en la pequeña "x" roja:
+
+!/images/screenshoots/echowaves/remove-users.jpg!
