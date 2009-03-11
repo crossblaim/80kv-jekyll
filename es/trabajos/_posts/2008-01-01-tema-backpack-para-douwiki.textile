@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Tema backpack para dokuwiki
+---
+
+!/images/portfolio/dokuwiki.jpg!:http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master
+
+Esto es un tema que he desarrollado para "dokuwiki":http://www.dokuwiki.org/dokuwiki, basado en el diseño de "backpack":http://www.backpackit.com/, el tema esta disponible para su descarga en "github":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master y lo podeis ver en accion en la web de "datamapper":http://datamapper.org/doku.php
