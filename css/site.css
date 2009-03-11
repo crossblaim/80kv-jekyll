@@ -45,6 +45,7 @@ a:hover, a:active { color:#e42a54; }
 
 .post h2 {
   font-weight:bold;
+  line-height:1.2em;
 }
 #title h2 {
   font-size:14px;
