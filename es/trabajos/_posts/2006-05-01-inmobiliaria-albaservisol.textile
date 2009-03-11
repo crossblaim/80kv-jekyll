@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Web inmobiliaria Albaservisol
+---
+
+!/images/portfolio/albaservisol.jpg!:http://sanberodi.com
+
+La web esta desarrollada en Rails y consta de un CMS hecho a medida, con un blog, noticias, ofertas destacadas y varios idiomas todo configurable por el cliente

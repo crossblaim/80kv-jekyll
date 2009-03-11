@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Peñaranda fotografia
+---
+
+!/images/portfolio/fotografo.jpg!:http://penyarandafotografia.com
+
+La web esta desarrollada en Rails y consta de un CMS hecho a medida, y zona de clientes donde estos pueden ver pruebas de los trabajos de fotografia que encargan en la tienda, por ejemplo pueden ver los reportajes de boda desde la comodidad de sus casas y elegir que fotos les gustan mas, etc...

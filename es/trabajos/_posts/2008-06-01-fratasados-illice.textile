@@ -1,0 +1,8 @@
+---
+layout: work_es
+title: Web fratasados illice
+---
+
+!/images/portfolio/fratasados.jpg!:http://www.fratasadosillice.net/
+
+Es una web sencilla con contenido estatico no editable por el cliente, el diseño lo proporciono el cliente, yo me encargue de la implementacion utilizando HTML y CSS
