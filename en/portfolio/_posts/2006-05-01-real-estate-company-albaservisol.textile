@@ -1,0 +1,8 @@
+---
+layout: work
+title: Albaservisol, Real Estate company website
+---
+
+!/images/portfolio/albaservisol.jpg!:http://sanberodi.com
+
+The site is developed in Ruby on Rails and consists on a custom CMS, blog, news section, highlighted offers and localization to some languajes. Everything is managed by the customer.
