@@ -1,0 +1,8 @@
+---
+layout: work
+title: Fratasados Illice website
+---
+
+!/images/portfolio/fratasados.jpg!:http://www.fratasadosillice.net/
+
+It is a simple website with static content. It's not editable by the customer, the design is provided by the customer, I was responsible for implementation using HTML and CSS

@@ -1,6 +1,6 @@
 ---
 layout: work_es
-title: Web fratasados illice
+title: Web fratasados Illice
 ---
 
 !/images/portfolio/fratasados.jpg!:http://www.fratasadosillice.net/

@@ -1,0 +1,8 @@
+---
+layout: work
+title: Peñaranda Photography
+---
+
+!/images/portfolio/fotografo.jpg!:http://penyarandafotografia.com
+
+The website is developed in Ruby on Rails and consists of a custom CMS and a area where customers can follow their orders and look at samples, for example they can see their wedding photos from the comfort of their homes and choose which photos they like most, etc...

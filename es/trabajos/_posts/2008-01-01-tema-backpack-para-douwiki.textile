@@ -5,4 +5,10 @@ title: Tema backpack para dokuwiki
 
 !/images/portfolio/dokuwiki.jpg!:http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master
 
-Esto es un tema que he desarrollado para "dokuwiki":http://www.dokuwiki.org/dokuwiki, basado en el diseño de "backpack":http://www.backpackit.com/, el tema esta disponible para su descarga en "github":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master y lo podeis ver en accion en la web de "datamapper":http://datamapper.org/doku.php
+"dokuwiki":http://wiki.splitbrain.org/wiki:dokuwiki es un wiki sencillo de usar y compatible con los estandares. Esto es una modificacion del diseño por defecto para hacer que se parezca al interface de "backpack":http://www.backpackit.com/, de "37signals’s":http://www.37signals.com/.
+
+Es un trabajo en progreso, pero el tema esta bastante bien. Para instalarlo, simplemente "descarga el archivo":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tarball/master y descomprimelo en la carpeta de temas de dokuwiki, despues elige el nuevo tema desde el panel de administracion de dokuwiki.
+
+El codigo fuente esta disponible en "github":http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master, las colaboraciones son bienvenidas.
+
+El tema lo podeis ver en accion en la web de "datamapper":http://datamapper.org/doku.php

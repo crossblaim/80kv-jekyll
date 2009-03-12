@@ -1,0 +1,8 @@
+---
+layout: work
+title: SummerCox Festival 2008
+---
+
+!/images/portfolio/summercox2008.jpg!:http://summercoxfestival.com/summer_cox_festival_2008/index.html
+
+Web/cover SummerCox Festival 2008. HTML + CSS
