@@ -1,0 +1,12 @@
+---
+layout: post_es
+title: "Solucion para el problema con Safari y Orbited (el navegador no termina de cargar la pagina nunca)"
+---
+
+Hace unos dias actualizamos "orbited":http://orbited.org/ a la ultima version (0.7.7) en el servidor de "EchoWaves":http://echowaves.com y encontramos un problema con Safari, donde la pagina nunca termina de cargar. El problema es debido al transporte usado por defecto en "orbited":http://orbited.org/, "XHR streaming", que no solia causar este problema con Safari y aparentemente ahora si lo hace.
+
+El equipo de "orbited":http://orbited.org/ va a cambiar el transporte por defecto proximamente a "LongPoll" que no tiene este problema, pero mientras tanto podeis utilizar la siguiente solucion, que consiste en detectar el navegador utilizado y configurar "orbited":http://orbited.org/ para que utilice el transporte "LongPoll" si el navegador es Safari:
+
+<script src="http://gist.github.com/80392.js"></script>
+
+Para detectar el navegador podeis utilizar el "siguiente script":http://www.quirksmode.org/js/detect.html
