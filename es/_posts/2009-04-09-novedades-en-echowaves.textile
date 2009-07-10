@@ -1,0 +1,21 @@
+---
+layout: post_es
+title: "Novedades en EchoWaves"
+---
+
+Durante las ultimas semanas hemos ido añadiendo algunas cosas nuevas a "EchoWaves":http://echowaves.com, estamos trabajando en escribir una pequeña guia de uso donde se enumeren todas las caracteristicas de la aplicacion, y mostrar ejemplos de uso, mientras tanto, ahi van las novedades:
+
+h4. Conversaciones favoritas
+
+Ahora, al lado del titulo de cada conversacion podeis ver una pequeña estrella, si haces click sobre la estrella podeis marcar la conversacion como "favorita". En el menu tambien hay un enlace con el icono de la estrella desde el cual podreis acceder al listado de vuestras conversaciones favoritas con un solo click
+
+h4. Silenciar notificacion de nuevos mensajes
+
+En el menu hay ahora un icono de un altavoz, haciendo click sobre el, podreis silenciar o activar el sonido de notificacion de nuevos mensajes
+
+h4. Mejores URLs
+
+Las URLs de las conversaciones y de los perfiles de los usuarios ahora incluyen el titulo de la conversacion y el nombre del usuario respectivamente, mi perfil seria:
+"http://www.echowaves.com/users/51-crossblaim":http://www.echowaves.com/users/51-crossblaim
+y la URL de mi fotolog seria:
+"http://www.echowaves.com/conversations/119-crossblaim-photolog":http://www.echowaves.com/conversations/119-crossblaim-photolog

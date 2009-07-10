@@ -1,0 +1,21 @@
+---
+layout: post
+title: "What's new on EchoWaves"
+---
+
+Over the past weeks we have been adding some new things to "EchoWaves":http://echowaves.com, we are working on writing a small guide that lists all the features of the application, and show examples of use, meanwhile, there are the new features: 
+
+h4. Favorite conversations
+
+Now, next to the title of each conversation, you can see a small star, if you click on the star you can make the conversation "favorite." In the menu there is also a link (a star icon) from which you can access the list of your favorite conversations with a single click 
+
+h4. Mute notification of new messages
+
+In the menu there is now an icon of a speaker, click on it, and you can silence or activate the sound notification of new messages
+
+h4. Better URLs
+
+The URLs of the conversations and user profiles now include the title of the conversation and the name of the user respectively, my profile would be:
+"http://www.echowaves.com/users/51-crossblaim":http://www.echowaves.com/users/51-crossblaim
+and the URL of my photo log would be:
+"http://www.echowaves.com/conversations/119-crossblaim-photolog":http://www.echowaves.com/conversations/119-crossblaim-photolog
