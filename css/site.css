@@ -1,4 +1,4 @@
----
+/* ---
 extension: css
 filter:    erb
 layout:    nil   # no layout
@@ -13,7 +13,7 @@ color:
   highlight:   "#B2CCFF"
   quiet:       "#666"
   alt:         "#666"
----
+--- */
 
 body {
   background:#000;
