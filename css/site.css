@@ -186,4 +186,16 @@ margin-bottom:15px;
   color:#000;
   text-decoration:none;
 }
+ul {list-style:none;margin:0;padding:0 15px;}
+li {
+	font-size: 14px;
+}
+li .date {
+	margin-right:5px;
+	padding:1px 4px;
+	font-family: Monaco, "Courier New", monospace;
+	color:#2c230b;
+	font-weight:bold;
+	font-size:70%;
+}
 /* EOF */
