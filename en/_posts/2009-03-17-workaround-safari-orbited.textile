@@ -3,7 +3,7 @@ layout: post
 title: "Workaround for safari never ending loading issue with Orbited"
 ---
 
-Some days ago, we updated "orbited":http://orbited.org/ to the last version (0.7.7) in the "EchoWaves":http://echowaves.com produvtion server, and we found an issue with Safari, where the browser never finish to load a page. The XHR streaming transport used to not cause the never ending loading bar in safari. Apparently it does now.
+Some days ago, we updated "orbited":http://orbited.org/ to the last version (0.7.7) in the "EchoWaves":http://echowaves.com production server, and we found an issue with Safari, where the browser never finish to load a page. The XHR streaming transport used to not cause the never ending loading bar in safari. Apparently it does now.
 
 The "orbited":http://orbited.org/ team is going to change the default transport to "LongPoll" which doesn't have this problem, but meanwhile you can use the following solution, which consist in detect the browser used and configure "orbited":http://orbited.org/ to use "LongPoll" if the browser detected is Safari:
 
