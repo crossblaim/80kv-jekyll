@@ -8,50 +8,42 @@
   <meta name="generator" content="jekyll" />
   <link rel="shortcut icon" href="http://80kv.com/images/favicon.ico">
 
-  <link rel="stylesheet" href="/css/blueprint/screen.css" type="text/css" media="screen, projection">
-  <link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print"> 
-  <!--[if IE]>
-    <link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
-  <![endif]-->
-  <link rel="stylesheet" href="/css/blueprint/style.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/grid.css" type="text/css" media="screen, projection">
   <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection">
-
 
   <link href="/feed/atom.xml" rel="alternate" title="80KV atom feed" type="application/atom+xml" />
 </head>
 
 <body>
-	<div class="container">
-		
-		<!-- left -->
-	  <div class="span-6" id="portrait">
-			80KV<div id="claudio"><img src="/images/claudionarita2.jpg" alt="claudio" /></div>
-	  </div>
-	
+	<div class="container container_12" id="main_container">
+
+ 	  <div class="grid_2 alpha">&nbsp</div>
+
 		<!-- center -->
-	  <div class="span-12" id="main">
+	  <div class="grid_8" id="main">
 
 			<div id="title">
-				<h1><a href="/" rel="home"><img src="/images/80kvlogo.gif" alt="80KV logo" /></a></h1>
-				<h2>80.000 volts Ruby development</h2>
+				<h1><a href="/" rel="home"><img src="/images/80kvlogo.png" alt="80KV logo" /></a></h1>
+				<h2>80.000 volts Ruby && RoR development</h2>
 			</div>
-			
+
 			<div id="banner">
-				<img src="/images/blogbanner4.jpg" alt="banner" />
+				<img src="/images/blogbanner4.jpg" alt="banner" width="590px"/>
 			</div>
-			
-			  
+
+
 			{{ content }}
 
 			{% include footer.html %}
 	  </div>
-	
+
 		<!-- right -->
-	  <div class="span-6 last" id="sidebar">
+	  <div class="span_2 omega" id="sidebar">
       {% include sidebar.html %}
-	  </div>  
-	
-		
+	  </div>
+
+    <div class="clear">&nbsp;</div>
+
 	</div>
 
 <script type="text/javascript">

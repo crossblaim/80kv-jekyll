@@ -18,15 +18,15 @@ color:
 body {
   background:#000;
   margin:0;
+  font-family: Helvetica, Tahoma, Helvetica, sans-serif;
 }
-
 h1 {
   font: Bold 55px 'Arial Black', Tahoma, Helvetica, sans-serif;
   letter-spacing: -2px;
   line-height: 40px;
   text-align: center;
   color:#e42a54;
-  padding: 40px 0 0px 0;
+  padding: 10px 0 0px 0;
   margin-bottom:0;
 }
 
@@ -48,7 +48,7 @@ a:hover, a:active { color:#e42a54; }
   line-height:1.2em;
 }
 #title h2 {
-  font-size:14px;
+  font-size:18px;
   font-weight:normal;
   text-align: center;
   color:#e42a54;
@@ -92,17 +92,19 @@ h2 a:hover, h2 a:active {
   margin-top:120px;
   margin-bottom:15px;
 }
-
 #sitenav a:link, #sitenav a:visited {
   background:#e42a54;
   color:#fff;
   padding:0 4px;
   text-decoration:none;
+  line-height:28px;
 }
+
 #sitenav a:hover, #sitenav a:active {
   background:#fcca42;
   color:#000;
   text-decoration:none;
+  line-height:28px;
 }
 #vcard {color:#e42a54;
 }
@@ -121,6 +123,7 @@ h2 a:hover, h2 a:active {
   margin-bottom:5px;
   color:#fcca42;
 }
+#morelinks a {  line-height:24px;}
 a:link.tag, a:visited.tag {
   background:#fcca42;
   color:#000;
@@ -138,6 +141,7 @@ a:hover.tag, a:active.tag {
   font-weight:bold;
 }
 #copy {
+  font-size:90%;
   color:#999;
   margin-top:15px;
   padding:0px 15px;
@@ -188,7 +192,8 @@ margin-bottom:15px;
 }
 ul {list-style:none;margin:0;padding:0 15px;}
 li {
-	font-size: 14px;
+	font-size: 16px;
+  margin-bottom:10px;
 }
 li .date {
 	margin-right:5px;
