@@ -7,7 +7,7 @@ title: Claudio Perez Gamayo - Acerca de mi
 	<h2><a href="{{ page.url }}">Acerca de mi</a></h2>
 	<div class="entrybody">
 
-!/images/akira_and_daddy.jpg!
+!/images/akira_and_dad.jpg!
 
 Mi nombre es Claudio. He estado trabajando con computadoras durante mas de 25 años, haciendo con ellas casi cualquier cosa que se pueda hacer con una. Me gustan los robots y el shakuhachi.
 
