@@ -1,0 +1,12 @@
+---
+layout: post
+title: "echowaves is dead, long live to echowaves"
+---
+
+Seems like it was yesterday when the echowaves project started. After more than a year of development and heavy daily usage, not only for fun, but also to do some serious collaboration work, we are going to rewrite echowaves from scratch.
+
+Now we have a more clear vision of the project, there is a lot of exciting new technologies that we want to use, and that the app can benefit from.
+
+Rails 3, jQuery, websockets, mongodb, here we go!
+
+!/images/echowavesshirt1.jpg!
