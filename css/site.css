@@ -14,11 +14,11 @@ color:
   quiet:       "#666"
   alt:         "#666"
 --- */
-
 body {
   background:#000;
   margin:0;
-  font-family: Helvetica, Tahoma, Helvetica, sans-serif;
+	font-family: Menlo, Monaco, Consolas, Courier, monospace;
+  font-size: 1em;
 }
 h1 {
   font: Bold 45px 'Arial Black', Tahoma, Helvetica, sans-serif;
@@ -198,7 +198,7 @@ li {
 li .date {
 	margin-right:5px;
 	padding:1px 4px;
-	font-family: Monaco, "Courier New", monospace;
+	font-family: Menlo, Monaco, Consolas, Courier, monospace;
 	color:#2c230b;
 	font-weight:bold;
 	font-size:75%;
