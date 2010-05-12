@@ -1,0 +1,20 @@
+---
+layout: default_es
+title: Claudio Perez Gamayo - Ruby on Rails desarrollo web
+---
+  <div id="title">
+		<h1><a href="/blog_es.html">Blog</a></h1>
+	</div>
+
+
+<ul>
+{% for post in site.categories.es %}
+  <li>
+  	<span class="date">{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+<div id="pagination_links">
+
+</div>
