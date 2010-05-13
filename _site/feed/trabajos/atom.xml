@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Claudio Perez Gamayo - 80KV trabajos</title>
+ <link href="http://80kv.com/feed/atom.xml" rel="self"/>
+ <link href="http://80kv.com/"/>
+ <updated>2010-05-12T23:49:07+02:00</updated>
+ <id>http://80kv.com/</id>
+ <author>
+   <name>Claudio Perez Gamayo</name>
+   <email>claudio@80kv.com</email>
+ </author>
+ 
+ 
+ <entry>
+   <title>Pagina web de Santiago Sanz</title>
+   <link href="http://80kv.com/t/trabajos/2009/02/25/pagina-web-de-santiago-sanz.html"/>
+   <updated>2009-02-25T00:00:00+01:00</updated>
+   <id>http://80kv.com/t/trabajos/2009/02/25/pagina-web-de-santiago-sanz</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://santiago-sanz.com&quot;&gt;&lt;img src=&quot;/images/portfolio/santiagosanz.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La web esta desarrollada en Rails y consta de un &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; hecho a medida, con un blog con comentarios, noticias, paginas, integracion con fotos de &lt;a href=&quot;http://picasaweb.google.com&quot;&gt;Picasa&lt;/a&gt; y videos de &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Diseño del blog de Raquel e integracion con mephisto</title>
+   <link href="http://80kv.com/t/trabajos/2009/02/24/blog-de-raquel.html"/>
+   <updated>2009-02-24T00:00:00+01:00</updated>
+   <id>http://80kv.com/t/trabajos/2009/02/24/blog-de-raquel</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://raquelquinto.com&quot;&gt;&lt;img src=&quot;/images/portfolio/raquel-blog-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Esta diseño es una variacion del mio en &lt;a href=&quot;http://80kv.com&quot;&gt;80KV&lt;/a&gt;, el diseño esta integrado en el fantastico motor de blogs &lt;a href=&quot;http://mephistoblog.com/&quot;&gt;mephisto&lt;/a&gt; utilizando &lt;span class=&quot;caps&quot;&gt;XHTML&lt;/span&gt; y &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>EchoWaves - chat en grupo y red social</title>
+   <link href="http://80kv.com/t/trabajos/2009/02/23/echowaves-chat-en-grupo-y-red-social.html"/>
+   <updated>2009-02-23T00:00:00+01:00</updated>
+   <id>http://80kv.com/t/trabajos/2009/02/23/echowaves-chat-en-grupo-y-red-social</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://echowaves.com&quot;&gt;&lt;img src=&quot;/images/portfolio/echowaves-thumb.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; es un proyecto de chat en grupo y red social comenzado por &lt;a href=&quot;http://www.echowaves.com/conversations/5&quot;&gt;Dmitry Amelchenko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; es una herramienta de colaboracion y una red social. &lt;a href=&quot;http://www.echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; tiene las mismas posibilidades que Campfire, y es tan simple de usar como Twitter. Todo gira alrededor de las conversaciones (convos) en vez de los usuarios. ¿Acaso no es mas natural para los humanos el socializar alrededor de las conversaciones?&lt;/p&gt;
+&lt;p&gt;Basicamente esta herramienta puede ser una importante adicion a cualquier equipo que utilice metodologias de desarrollo agiles, especialmente a equipos cuyos miembros se encuentren distribuidos geograficamente. Todos conocemos la importancia de la comunicacion la cual puede ser dificil si las personas no se encuentran en la misma habitacion, o si alguien se ausenta durante unos minutos&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Puedes charlar conmigo en &lt;span class=&quot;tag&quot;&gt;&lt;a href=&quot;http://www.echowaves.com/conversations/52&quot;&gt;mi conversacion personal&lt;/a&gt;&lt;/span&gt; en &lt;a href=&quot;http:echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Si eres un desarrollador y quieres colaborar, puedes hechar un vistazo a la lista de tareas pendientes en &lt;a href=&quot;http://code.google.com/p/echowaves/issues/list&quot;&gt;google code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;El codigo fuente se encuentra alojado en &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;, el repositorio principal es:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/dmitryame/echowaves&quot;&gt;http://github.com/dmitryame/echowaves&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;mi repositorio de trabajo es:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/crossblaim/echowaves&quot;&gt;http://github.com/crossblaim/echowaves&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SummerCox Festival 2008</title>
+   <link href="http://80kv.com/t/trabajos/2008/07/05/web-summer-cox-festival-2008.html"/>
+   <updated>2008-07-05T00:00:00+02:00</updated>
+   <id>http://80kv.com/t/trabajos/2008/07/05/web-summer-cox-festival-2008</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://summercoxfestival.com/summer_cox_festival_2008/index.html&quot;&gt;&lt;img src=&quot;/images/portfolio/summercox2008.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Web/cartel SummerCox Festival 2008. &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; + &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Web fratasados Illice</title>
+   <link href="http://80kv.com/t/trabajos/2008/06/01/fratasados-illice.html"/>
+   <updated>2008-06-01T00:00:00+02:00</updated>
+   <id>http://80kv.com/t/trabajos/2008/06/01/fratasados-illice</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.fratasadosillice.net/&quot;&gt;&lt;img src=&quot;/images/portfolio/fratasados.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Es una web sencilla con contenido estatico no editable por el cliente, el diseño lo proporciono el cliente, yo me encargue de la implementacion utilizando &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; y &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Tema backpack para dokuwiki</title>
+   <link href="http://80kv.com/t/trabajos/2008/01/01/tema-backpack-para-douwiki.html"/>
+   <updated>2008-01-01T00:00:00+01:00</updated>
+   <id>http://80kv.com/t/trabajos/2008/01/01/tema-backpack-para-douwiki</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master&quot;&gt;&lt;img src=&quot;/images/portfolio/dokuwiki.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.splitbrain.org/wiki:dokuwiki&quot;&gt;dokuwiki&lt;/a&gt; es un wiki sencillo de usar y compatible con los estandares. Esto es una modificacion del diseño por defecto para hacer que se parezca al interface de &lt;a href=&quot;http://www.backpackit.com/&quot;&gt;backpack&lt;/a&gt;, de &lt;a href=&quot;http://www.37signals.com/&quot;&gt;37signals’s&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Es un trabajo en progreso, pero el tema esta bastante bien. Para instalarlo, simplemente &lt;a href=&quot;http://github.com/crossblaim/backpack-theme-for-dokuwiki/tarball/master&quot;&gt;descarga el archivo&lt;/a&gt; y descomprimelo en la carpeta de temas de dokuwiki, despues elige el nuevo tema desde el panel de administracion de dokuwiki.&lt;/p&gt;
+&lt;p&gt;El codigo fuente esta disponible en &lt;a href=&quot;http://github.com/crossblaim/backpack-theme-for-dokuwiki/tree/master&quot;&gt;github&lt;/a&gt;, las colaboraciones son bienvenidas.&lt;/p&gt;
+&lt;p&gt;El tema lo podeis ver en accion en la web de &lt;a href=&quot;http://datamapper.org/doku.php&quot;&gt;datamapper&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Peñaranda fotografia</title>
+   <link href="http://80kv.com/t/trabajos/2007/02/01/penyaranda-fotografia.html"/>
+   <updated>2007-02-01T00:00:00+01:00</updated>
+   <id>http://80kv.com/t/trabajos/2007/02/01/penyaranda-fotografia</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://penyarandafotografia.com&quot;&gt;&lt;img src=&quot;/images/portfolio/fotografo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La web esta desarrollada en Rails y consta de un &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; hecho a medida, y zona de clientes donde estos pueden ver pruebas de los trabajos de fotografia que encargan en la tienda, por ejemplo pueden ver los reportajes de boda desde la comodidad de sus casas y elegir que fotos les gustan mas, etc&amp;#8230;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Web inmobiliaria Albaservisol</title>
+   <link href="http://80kv.com/t/trabajos/2006/05/01/inmobiliaria-albaservisol.html"/>
+   <updated>2006-05-01T00:00:00+02:00</updated>
+   <id>http://80kv.com/t/trabajos/2006/05/01/inmobiliaria-albaservisol</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://sanberodi.com&quot;&gt;&lt;img src=&quot;/images/portfolio/albaservisol.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La web esta desarrollada en Rails y consta de un &lt;span class=&quot;caps&quot;&gt;CMS&lt;/span&gt; hecho a medida, con un blog, noticias, ofertas destacadas y varios idiomas todo configurable por el cliente&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

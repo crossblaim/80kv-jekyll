@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Claudio Perez Gamayo - 80KV</title>
+ <link href="http://80kv.com/feed/atom.xml" rel="self"/>
+ <link href="http://80kv.com/"/>
+ <updated>2010-05-12T23:49:07+02:00</updated>
+ <id>http://80kv.com/</id>
+ <author>
+   <name>Claudio Perez Gamayo</name>
+   <email>claudio@80kv.com</email>
+ </author>
+ 
+ 
+ <entry>
+   <title>echowaves is dead, long live to echowaves</title>
+   <link href="http://80kv.com/en/2010/02/23/rewriting-echowaves.html"/>
+   <updated>2010-02-23T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2010/02/23/rewriting-echowaves</id>
+   <content type="html">&lt;p&gt;Seems like it was yesterday when the echowaves project started. After more than a year of development and heavy daily usage, not only for fun, but also to do some serious collaboration work, we are going to rewrite echowaves from scratch.&lt;/p&gt;
+&lt;p&gt;Now we have a more clear vision of the project, there is a lot of exciting new technologies that we want to use, and that the app can benefit from.&lt;/p&gt;
+&lt;p&gt;Rails 3, jQuery, websockets, mongodb, here we go!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/echowavesshirt1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>What's new on EchoWaves</title>
+   <link href="http://80kv.com/en/2009/04/09/whats-new-on-echowaves.html"/>
+   <updated>2009-04-09T00:00:00+02:00</updated>
+   <id>http://80kv.com/en/2009/04/09/whats-new-on-echowaves</id>
+   <content type="html">&lt;p&gt;Over the past weeks we have been adding some new things to &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, we are working on writing a small guide that lists all the features of the application, and show examples of use, meanwhile, there are the new features:&lt;/p&gt;
+&lt;h4&gt;Favorite conversations&lt;/h4&gt;
+&lt;p&gt;Now, next to the title of each conversation, you can see a small star, if you click on the star you can make the conversation &amp;#8220;favorite.&amp;#8221; In the menu there is also a link (a star icon) from which you can access the list of your favorite conversations with a single click&lt;/p&gt;
+&lt;h4&gt;Mute notification of new messages&lt;/h4&gt;
+&lt;p&gt;In the menu there is now an icon of a speaker, click on it, and you can silence or activate the sound notification of new messages&lt;/p&gt;
+&lt;h4&gt;Better URLs&lt;/h4&gt;
+&lt;p&gt;The URLs of the conversations and user profiles now include the title of the conversation and the name of the user respectively, my profile would be:&lt;br /&gt;
+&lt;a href=&quot;http://www.echowaves.com/users/51-crossblaim&quot;&gt;http://www.echowaves.com/users/51-crossblaim&lt;/a&gt;&lt;br /&gt;
+and the &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; of my photo log would be:&lt;br /&gt;
+&lt;a href=&quot;http://www.echowaves.com/conversations/119-crossblaim-photolog&quot;&gt;http://www.echowaves.com/conversations/119-crossblaim-photolog&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Workaround for safari never ending loading issue with Orbited</title>
+   <link href="http://80kv.com/en/2009/03/17/workaround-safari-orbited.html"/>
+   <updated>2009-03-17T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/03/17/workaround-safari-orbited</id>
+   <content type="html">&lt;p&gt;Some days ago, we updated &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; to the last version (0.7.7) in the &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; production server, and we found an issue with Safari, where the browser never finish to load a page. The &lt;span class=&quot;caps&quot;&gt;XHR&lt;/span&gt; streaming transport used to not cause the never ending loading bar in safari. Apparently it does now.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; team is going to change the default transport to &amp;#8220;LongPoll&amp;#8221; which doesn&amp;#8217;t have this problem, but meanwhile you can use the following solution, which consist in detect the browser used and configure &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; to use &amp;#8220;LongPoll&amp;#8221; if the browser detected is Safari:&lt;/p&gt;
+&lt;script src=&quot;http://gist.github.com/80392.js&quot;&gt;&lt;/script&gt;&lt;p&gt;There is &lt;a href=&quot;http://www.quirksmode.org/js/detect.html&quot;&gt;some javascript to detect the browser&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Euruko 2009 Barcelona: European Ruby Conference open for registration</title>
+   <link href="http://80kv.com/en/2009/03/09/euruko-2009-european-ruby-conference-in-barcelona-open-for-registration.html"/>
+   <updated>2009-03-09T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/03/09/euruko-2009-european-ruby-conference-in-barcelona-open-for-registration</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://app.euruko2009.org/&quot;&gt;Euruko 2009&lt;/a&gt; is now &lt;a href=&quot;http://app.euruko2009.org/&quot;&gt;open for registration&lt;/a&gt;. The European Ruby Conference will take place this year on May 9th-10th in Barcelona, Spain. The price? only 30 euros. The &lt;a href=&quot;http://app.euruko2009.org/calendar&quot;&gt;schedule&lt;/a&gt; is also available.&lt;/p&gt;
+&lt;p&gt;See you in Barcelona :-)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Remove users from private conversations in EchoWaves</title>
+   <link href="http://80kv.com/en/2009/03/09/echowaves-remove-users-from-private-conversations.html"/>
+   <updated>2009-03-09T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/03/09/echowaves-remove-users-from-private-conversations</id>
+   <content type="html">&lt;p&gt;Over the last few days is possible in &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; to have private conversations, either by starting a new conversation or making a existing conversation private. The owners of a private conversation can invite other users to enable them to participate,  but one important thing was missing, the owner of a private conversation has to be able to remove users from their conversation. Since yesterday it is possible. To remove a user just need to enter the followers tab and remove the user you want by clicking the little red &amp;#8220;x&amp;#8221;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/remove-users.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>EchoWaves as a collaboration tool</title>
+   <link href="http://80kv.com/en/2009/02/28/echowaves-as-a-collaboration-tool.html"/>
+   <updated>2009-02-28T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/02/28/echowaves-as-a-collaboration-tool</id>
+   <content type="html">&lt;p&gt;Following the series of articles on &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, I will talk a little about some of the features that make the service an attractive option as a collaboration tool.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Unlimited conversations&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/convos-en.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can create all the conversations you need, one for every case, project, customer or whatever&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Private conversations&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/private-en.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Since a few days, &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; allows the creation of private conversations. This way you can create a conversation for a specific project or client, and keep the conversation away from the eyes of other customers.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Share files&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/file.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can share files with other team members or clients in a very simple way, just attach the file to a message. You can download the file by clicking on the file icon. You can upload files of all kinds, &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt; documents, spreadsheets, etc&amp;#8230;&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Show images&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can add images to your messages in the same way as files, and the program will display the image online. If you click on the picture you can see it in real size.&lt;/p&gt;
+&lt;p&gt;And this is only the beginning, &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; is a very simple and versatile tool, with a little imagination you will surely occur in many other ways to use it.&lt;/p&gt;
+&lt;p&gt;In closing, just to remind you that &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; is free and open source software. You can download it and use it as you need, for example to have a private installation within a company for employees to communicate and collaborate, to customize and adapt to specific needs, etc&amp;#8230;&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re a developer and want to collaborate, you can find the source code of the project on: &lt;a href=&quot;http://github.com/dmitryame/echowaves/tree/master&quot;&gt;http://github.com/dmitryame/echowaves/tree/master&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>New feature of EchoWaves: private conversations</title>
+   <link href="http://80kv.com/en/2009/02/26/private-conversations-in-echowaves.html"/>
+   <updated>2009-02-26T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/02/26/private-conversations-in-echowaves</id>
+   <content type="html">&lt;p&gt;Another day and a new feature of &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, this time a highly requested one by users since the beginning: private conversations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/privateconvos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Now, when you create a new conversation, you can choose to make it private, thus the users can not read it. You can invite other users to participate on your private conversation, they will receive an email with the invitation so they can access it.&lt;/p&gt;
+&lt;p&gt;You can also convert your private conversations to public, and public to private, whenever you want.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>New feature of EchoWaves: embed videos and pictures into your messages with ease</title>
+   <link href="http://80kv.com/en/2009/02/24/new-echowaves-feature-easily-embed-video-and-images.html"/>
+   <updated>2009-02-24T00:00:00+01:00</updated>
+   <id>http://80kv.com/en/2009/02/24/new-echowaves-feature-easily-embed-video-and-images</id>
+   <content type="html">&lt;p&gt;Since yesterday we have a new feature in &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, you can embed videos and pictures into your messages easily, just by copying the url address of a video or image.&lt;br /&gt;
+For example, if you paste in a message in &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; the url of a video of &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt; like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/examples/vimeo-posting-example.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;the video is displayed directly in the message, like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/echowaves-feature-video.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;the system works with &lt;a href=&quot;http://youtube.com&quot;&gt;youtube&lt;/a&gt; and &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt; videos for now, but also works with image urls, if you paste the url of an image, the image will be displayed inline.&lt;/p&gt;
+&lt;p&gt;To see a live example of this you can &lt;a href=&quot;http://www.echowaves.com/conversations/246&quot;&gt;visit my video blog&lt;/a&gt; in &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Enjoy :-D&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

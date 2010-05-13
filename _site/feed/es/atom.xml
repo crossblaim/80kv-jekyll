@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Claudio Perez Gamayo - 80KV</title>
+ <link href="http://80kv.com/feed/atom.xml" rel="self"/>
+ <link href="http://80kv.com/"/>
+ <updated>2010-05-12T23:49:07+02:00</updated>
+ <id>http://80kv.com/</id>
+ <author>
+   <name>Claudio Perez Gamayo</name>
+   <email>claudio@80kv.com</email>
+ </author>
+ 
+ 
+ <entry>
+   <title>echowaves ha muerto, larga vida a echowaves</title>
+   <link href="http://80kv.com/es/2010/02/23/reescribiendo-echowaves.html"/>
+   <updated>2010-02-23T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2010/02/23/reescribiendo-echowaves</id>
+   <content type="html">&lt;p&gt;Parece que fue ayer cuando el proyecto echowaves comenzó. Después de más de un año de desarrollo y de uso diario, no sólo por diversión, sino también para trabajar, vamos a reescribir echowaves desde cero.&lt;/p&gt;
+&lt;p&gt;Ahora tenemos una visión más clara del proyecto, hay un montón de nuevas tecnologías que queremos utilizar, y de que la aplicación puede beneficiarse.&lt;/p&gt;
+&lt;p&gt;Rails 3, jQuery, websockets, mongodb, aquí vamos!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/echowavesshirt1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Novedades en EchoWaves</title>
+   <link href="http://80kv.com/es/2009/04/09/novedades-en-echowaves.html"/>
+   <updated>2009-04-09T00:00:00+02:00</updated>
+   <id>http://80kv.com/es/2009/04/09/novedades-en-echowaves</id>
+   <content type="html">&lt;p&gt;Durante las ultimas semanas hemos ido añadiendo algunas cosas nuevas a &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, estamos trabajando en escribir una pequeña guia de uso donde se enumeren todas las caracteristicas de la aplicacion, y mostrar ejemplos de uso, mientras tanto, ahi van las novedades:&lt;/p&gt;
+&lt;h4&gt;Conversaciones favoritas&lt;/h4&gt;
+&lt;p&gt;Ahora, al lado del titulo de cada conversacion podeis ver una pequeña estrella, si haces click sobre la estrella podeis marcar la conversacion como &amp;#8220;favorita&amp;#8221;. En el menu tambien hay un enlace con el icono de la estrella desde el cual podreis acceder al listado de vuestras conversaciones favoritas con un solo click&lt;/p&gt;
+&lt;h4&gt;Silenciar notificacion de nuevos mensajes&lt;/h4&gt;
+&lt;p&gt;En el menu hay ahora un icono de un altavoz, haciendo click sobre el, podreis silenciar o activar el sonido de notificacion de nuevos mensajes&lt;/p&gt;
+&lt;h4&gt;Mejores URLs&lt;/h4&gt;
+&lt;p&gt;Las URLs de las conversaciones y de los perfiles de los usuarios ahora incluyen el titulo de la conversacion y el nombre del usuario respectivamente, mi perfil seria:&lt;br /&gt;
+&lt;a href=&quot;http://www.echowaves.com/users/51-crossblaim&quot;&gt;http://www.echowaves.com/users/51-crossblaim&lt;/a&gt;&lt;br /&gt;
+y la &lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; de mi fotolog seria:&lt;br /&gt;
+&lt;a href=&quot;http://www.echowaves.com/conversations/119-crossblaim-photolog&quot;&gt;http://www.echowaves.com/conversations/119-crossblaim-photolog&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Solucion para el problema con Safari y Orbited (el navegador no termina de cargar la pagina nunca)</title>
+   <link href="http://80kv.com/es/2009/03/17/solucion-safari-orbited.html"/>
+   <updated>2009-03-17T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/03/17/solucion-safari-orbited</id>
+   <content type="html">&lt;p&gt;Hace unos dias actualizamos &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; a la ultima version (0.7.7) en el servidor de &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; y encontramos un problema con Safari, donde la pagina nunca termina de cargar. El problema es debido al transporte usado por defecto en &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt;, &amp;#8220;&lt;span class=&quot;caps&quot;&gt;XHR&lt;/span&gt; streaming&amp;#8221;, que no solia causar este problema con Safari y aparentemente ahora si lo hace.&lt;/p&gt;
+&lt;p&gt;El equipo de &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; va a cambiar el transporte por defecto proximamente a &amp;#8220;LongPoll&amp;#8221; que no tiene este problema, pero mientras tanto podeis utilizar la siguiente solucion, que consiste en detectar el navegador utilizado y configurar &lt;a href=&quot;http://orbited.org/&quot;&gt;orbited&lt;/a&gt; para que utilice el transporte &amp;#8220;LongPoll&amp;#8221; si el navegador es Safari:&lt;/p&gt;
+&lt;script src=&quot;http://gist.github.com/80392.js&quot;&gt;&lt;/script&gt;&lt;p&gt;Para detectar el navegador podeis utilizar el &lt;a href=&quot;http://www.quirksmode.org/js/detect.html&quot;&gt;siguiente script&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Eliminar usuarios de una conversacion privada en EchoWaves</title>
+   <link href="http://80kv.com/es/2009/03/09/echowaves-quitar-usuarios-de-una-conversacion-privada.html"/>
+   <updated>2009-03-09T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/03/09/echowaves-quitar-usuarios-de-una-conversacion-privada</id>
+   <content type="html">&lt;p&gt;Desde hace unos dias es posible en &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; el tener conversaciones privadas, ya sea al comenzar una nueva conversacion o haciendo privada una conversacion existente. Los propietarios de una conversacion privada pueden invitar a otros usuarios para que estos puedan participar, pero faltaba una cosa importante, el propietario de una conversacion privada tiene que poder eliminar usuarios de su conversacion en el momento que lo necesitara. Desde ayer es posible. Para eliminar a un usuario solo hay que entrar en la pestaña de seguidores y eliminar al usuario que querais haciendo click en la pequeña &amp;#8220;x&amp;#8221; roja:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/remove-users.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Euruko 2009 Barcelona: Abierto el registro de asistencia a la Conferencia Europea sobre Ruby</title>
+   <link href="http://80kv.com/es/2009/03/09/abierto-el-registro-para-la-conferencia-euruko-2009-en-barcelona.html"/>
+   <updated>2009-03-09T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/03/09/abierto-el-registro-para-la-conferencia-euruko-2009-en-barcelona</id>
+   <content type="html">&lt;p&gt;Ya esta &lt;a href=&quot;http://app.euruko2009.org/&quot;&gt;abierto el registro&lt;/a&gt; de asistentes a la Conferencia Europea sobre Ruby, &lt;a href=&quot;http://app.euruko2009.org/&quot;&gt;Euruko 2009&lt;/a&gt; que va a tener lugar este año los dias 9 y 10 de Mayo en Barcelona, el precio es de 30 euros. La agenda tambien &lt;a href=&quot;http://app.euruko2009.org/calendar&quot;&gt;esta disponible&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nos vemos en Barcelona :-)&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>EchoWaves como herramienta de colaboracion</title>
+   <link href="http://80kv.com/es/2009/02/28/echowaves-como-herramienta-de-colaboracion.html"/>
+   <updated>2009-02-28T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/02/28/echowaves-como-herramienta-de-colaboracion</id>
+   <content type="html">&lt;p&gt;Siguiendo con la serie de articulos sobre &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, voy a hablaros un poco de algunas de las caracteristicas que hacen del servicio una opcion interesante como herramienta de colaboracion.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Conversaciones ilimitadas&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/convos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Podeis crear todas las conversaciones que necesiteis, para cada asunto, proyecto o lo que sea&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Conversaciones privadas&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/private.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Desde hace unos dias, &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; permite la creacion de conversaciones privadas. De este modo podeis crear una conversacion para un determinado proyecto o cliente, y mantener la conversacion fuera del alcance de las miradas de otros clientes.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Compartir archivos&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/file.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Podeis compartir archivos con otros miembros del equipo o los clientes de manera muy sencilla, simplemente añadiendolos a un mensaje, haciendo click en el icono os descargareis el archivo. Se pueden subir archivos de todo tipo, documentos pdf, hojas de calculo, etc&amp;#8230;&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Mostrar imagenes&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/image.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Podeis añadir imagenes a los mensajes de la misma forma que los archivos y el programa os mostrara la imagen en linea. Haciendo click en la imagen la podreis ver a tamaño real.&lt;/p&gt;
+&lt;p&gt;Y esto es solo el principio, &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; es una herramienta muy sencilla y versatil, con un poco de imaginacion seguramente se os ocurran muchas otras maneras de utilizarla.&lt;/p&gt;
+&lt;p&gt;Para terminar, solo recordaros que &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; es software libre, y que os podeis descargar el programa que utilizamos en la web y utilizarlo como mas os convenga, por ejemplo para tener una instalacion privada dentro de una empresa para que los empleados puedan comunicarse y colaborar, personalizarlo y adaptarlo a necesidades especificas, etc&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Si sois desarrolladores, tambien podeis colaborar en el desarrollo del proyecto. El codigo fuente del mismo se encuentra en: &lt;a href=&quot;http://github.com/dmitryame/echowaves/tree/master&quot;&gt;http://github.com/dmitryame/echowaves/tree/master&lt;/a&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Nueva caracteristica de EchoWaves: Conversaciones privadas</title>
+   <link href="http://80kv.com/es/2009/02/26/conversaciones-privadas-en-echowaves.html"/>
+   <updated>2009-02-26T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/02/26/conversaciones-privadas-en-echowaves</id>
+   <content type="html">&lt;p&gt;Otro dia y nueva caracteristica de &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, esta vez una muy solicitada por los usuarios desde el principio: conversaciones privadas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/privateconvos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Ahora, al crear una nueva conversacion, podeis elegir que sea privada, de este modo los otros usuarios no podran leerla. Podeis invitar a otros usuarios a seguir vuestra conversacion privada, estos recibiran un email con la invitacion y asi podran acceder a ella. Si alguien deja de seguir una conversacion privada, tendra que ser invitado nuevamente para poder participar.&lt;/p&gt;
+&lt;p&gt;Tambien podeis convertir en privadas vuestras conversaciones publicas, y hacer publicas las privadas siempre que querais.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Nueva caracteristica de EchoWaves: incrusta videos e imagenes con facilidad en tus mensajes</title>
+   <link href="http://80kv.com/es/2009/02/24/nueva-caracteristica-de-echowaves-incrusta-videos-e-imagenes-con-facilidad.html"/>
+   <updated>2009-02-24T00:00:00+01:00</updated>
+   <id>http://80kv.com/es/2009/02/24/nueva-caracteristica-de-echowaves-incrusta-videos-e-imagenes-con-facilidad</id>
+   <content type="html">&lt;p&gt;Desde ayer tenemos una nueva funcionalidad en &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;, gracias a la cual podreis poner videos e imagenes dentro de vuestros mensajes de una manera muy sencilla, tan solo copiando la direccion de la pagina del video.&lt;br /&gt;
+Por ejemplo, si copiamos en un mensaje en &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt; la siguiente direccion de un video de &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/examples/vimeo-posting-example.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;el video se visualizara directamente en el mensaje, asi:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/screenshoots/echowaves/echowaves-feature-video.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;el sistema es valido para videos de &lt;a href=&quot;http://youtube.com&quot;&gt;youtube&lt;/a&gt; y &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt; de momento, y tambien funciona con imagenes, si copiais la url (direccion) de una imagen en el mensaje, la imagen se vera automaticamente.&lt;/p&gt;
+&lt;p&gt;Para ver el resultado podeis &lt;a href=&quot;http://www.echowaves.com/conversations/246&quot;&gt;visitar mi video blog&lt;/a&gt; en &lt;a href=&quot;http://echowaves.com&quot;&gt;EchoWaves&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Disfrutad :-D&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

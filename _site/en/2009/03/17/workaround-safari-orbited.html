@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Workaround for safari never ending loading issue with Orbited</title>
+  <meta name="author" content="Claudio Perez Gamayo" />
+  <meta name="generator" content="jekyll" />
+  <link rel="shortcut icon" href="http://80kv.com/images/favicon.ico">
+
+  <link rel="stylesheet" href="/css/grid.css" type="text/css" media="screen, projection">
+  <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection">
+
+  <link href="/feed/atom.xml" rel="alternate" title="80KV atom feed" type="application/atom+xml" />
+</head>
+
+<body>
+	<div class="container container_12" id="main_container">
+
+
+		<!-- center -->
+	  <div class="grid_9 alpha" id="main">
+
+			<div class="post">
+	<h1><a href="/en/2009/03/17/workaround-safari-orbited.html">Workaround for safari never ending loading issue with Orbited</a></h1>
+  <span class="date">17 Mar 2009</span>
+	<div class="entrybody">
+		<p>Some days ago, we updated <a href="http://orbited.org/">orbited</a> to the last version (0.7.7) in the <a href="http://echowaves.com">EchoWaves</a> production server, and we found an issue with Safari, where the browser never finish to load a page. The <span class="caps">XHR</span> streaming transport used to not cause the never ending loading bar in safari. Apparently it does now.</p>
+<p>The <a href="http://orbited.org/">orbited</a> team is going to change the default transport to &#8220;LongPoll&#8221; which doesn&#8217;t have this problem, but meanwhile you can use the following solution, which consist in detect the browser used and configure <a href="http://orbited.org/">orbited</a> to use &#8220;LongPoll&#8221; if the browser detected is Safari:</p>
+<script src="http://gist.github.com/80392.js"></script><p>There is <a href="http://www.quirksmode.org/js/detect.html">some javascript to detect the browser</a></p>
+	</div>
+	<!-- <div class="entrymeta"><div class="postinfo"><span class="taglist">Tagged with <a href="/tags/personal" rel="tag" title="personal">personal</a></span></div></div> -->
+</div>
+
+			<div id="copy">&copy; 2010, Claudio Perez Gamayo</div>
+
+	  </div>
+
+		<!-- right -->
+	  <div class="grid_3 omega" id="sidebar">
+      <a href="/inicio.html" class="tag">español</a>
+
+<div id="logo"><h1><a href="/" rel="home">CLAUDIO PEREZ GAMAYO</a></h1></div>
+<h2>80.000 volts Ruby && RoR development</h2>
+<hr/>
+<div id="sitenav">
+
+	<form method="get" id="sform" action="http://www.google.com/search">
+	  <label for="q">Search:</label><br/>
+  	<input type="text" name="q" style="width:110px" />
+  	<input type="submit" value="Search" />
+  	<input type="hidden" name="sitesearch" value="80kv.com" />
+  </form>
+
+	<hr/>
+
+	<a href="/" title="who am I?, what I do?">about me</a><br/>
+  <a href="/blog.html" title="blog">blog</a><br/>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	function hivelogic_enkoder(){var kode=
+	"kode=\";)'':)1-htgnel.edok(tArahc.edok?htgnel.edok<i(+x=edok})i(tArahc.edo"+
+	"k+)1+i(tArahc.edok=+x{)2=+i;)1-htgnel.edok(<i;0=i(rof;''=x;\\\";'):'1)h-gt"+
+	"en.ldekot(rAha.cdekoh?gten.ldekoi<+(=xdeko)}(iAtarche.od+k1)i+t(rAha.cdeko"+
+	"+={x2)+=;i1)h-gten.ldeko<(;i=0(ior;f''x=\\\"\\\\;exo=}dcke)o(rdhCmarC.onfr"+
+	"gSi+t;=2x=8c10+c)f<;(-ii3t)e(oArdhC.adckeco)=+{;+tinhlgeeo.<d;k=i(0oi;r'fx"+
+	"'\\\"\\\\=;\\\\\\\\{@hgrn00\\\\\\\\\\\\\\\\f0h,r+ugkFpduF1rqiujVl.w>@5{@;f"+
+	"43.f,i?>+0ll6w,h+rDugkF1dgfnhfr,@.~>.wlqkojhhr1?g>n@l+3rl>u*i{*%@C>j~qk3u_"+
+	"3i3k/u.xjnIsgxI4utlxmYo1zAC8~C>i761i/lBA.3oo9z/k.uGxjnI4gjiqkiu0C\\\\\\\\1"+
+	"0\\\\\\\\/11oAnzmtkr4kjuqBoA6Co.xulA--C~A(D2+Gj8Evxl777\\\\\\\\\\\\\\\\91I"+
+	"trA~xumGjele+n+}F}u+rv)le7x17t7\\\\\\\\\\\\\\\\9AIxrm~julCx}urjv+eFon{q)jE"+
+	"+1n}r{000\\\\\\\\7w\\\\\\\\v}lnm~Cxj(qk@ug%nh=r\\\\\\\\\\\"\\\\edok=\\\"\\"+
+	"\\deko\\\"=edok\";kode=kode.split('').reverse().join('')"
+	;var i,c,x;while(eval(kode));}hivelogic_enkoder();
+	/* ]]> */
+	</script>
+	<br/>
+	<a href="http://github.com/crossblaim" title="my projects on github">projects</a><br/>
+	<a href="http://twitter.com/crossblaim" title="follow me on twitter">twitter</a><br/>
+</div>
+
+
+<!--
+<div id="tagscloud">
+	<h3>tags</h3>
+	<a href="/tags/80kv" class="tag" rel="tag" title="80KV">80KV</a>
+	<a href="/tags/design" class="tag" rel="tag" title="design">design</a>
+	<a href="/tags/github" class="tag" rel="tag" title="github">github</a>
+	<a href="/tags/japan" class="tag" rel="tag" title="Japan">Japan</a>
+	<a href="/tags/personal" class="tag" rel="tag" title="personal">personal</a>
+	<a href="/tags/photo" class="tag" rel="tag" title="photo">photo</a>
+	<a href="/tags/project" class="tag" rel="tag" title="project">project</a>
+	<a href="/tags/rails" class="tag" rel="tag" title="rails">rails</a>
+	<a href="/tags/ruby" class="tag" rel="tag" title="ruby">ruby</a>
+</div>
+-->
+
+
+<div id="morelinks">
+ <a href="http://www.flickr.com/photos/crossblaim/" class="tag" title="my photo album">my photo album</a><br/>
+  <a href="http://www.vimeo.com/claudio80kv/videos" class="tag" title="my videos on vimeo">my videos</a><br/>
+  <a href="http://www.jpgmag.com/people/crossblaim" class="tag" title="My favourite photos on JPG Magazine">photography</a><br/>
+  <a href="http://raquelquinto.com/" class="tag" title="Raquel's blog">Raquel's blog</a><br/>
+  <a href="http://echowaves.com/" class="tag" title="Group Chat Social Network">echowaves</a>
+</div>
+
+
+	  </div>
+
+    <div class="clear">&nbsp;</div>
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-80804-9");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
